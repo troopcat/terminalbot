@@ -1,7 +1,6 @@
 Terminal-1.4
 Gerekli olan modüller:
 
-discord
-imgurpython
+discord, imgurpython
 
 Tokeninizi yerleştirmek için config dosyasından token değişkenine string olarak kendi tokeninizi atayınız.
